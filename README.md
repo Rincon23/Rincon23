@@ -23,7 +23,7 @@
 ### Principais bibliotecas
 # ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### Estou sempre aberto a novas oportunidades e desafios! Vamos criar algo incrível! 💡
+<h1 align="center"> Estou sempre aberto a novas oportunidades e desafios! Vamos criar algo incrível! 💡</h1>
 
 
 
