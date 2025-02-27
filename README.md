@@ -12,18 +12,29 @@
 </p>
 
 ### 🚀 Sobre mim
+Sou Enzo Rincon e sempre sonhei em trabalhar na área de tecnologia, especialmente com programação. Atualmente, estou realizando esse sonho por meio de projetos pessoais que desenvolvo por conta própria.
+#
+### 🎯 Objetivo profissonal
+#### Busco uma oportunidade na área de desenvolvimento de sistemas. Quero aplicar minhas habilidades técnicas e o conhecimento adquirido em atividades acadêmicas e projetos realizados, com foco no crescimento profissional e aprendizado na área de tecnologia.
 
 ###
 
 #
 
-### 🛠️ Ferramentas que já trabalhei em meus projetos 🛠️
-### ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🛠️ Ferramentas que já trabalhei em meus projetos
+#### 💻 Linguagen de Programação
+###  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
 
-### Principais bibliotecas
+#### 🌐 Desenvolvimento Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 📦 Banco de Dados
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔧 Frameworks
 # ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-<h1 align="center"> Estou sempre aberto a novas oportunidades e desafios! Vamos criar algo incrível! 💡</h1>
+<h3 align="center"> Estou sempre aberto a novas oportunidades e desafios! Vamos criar algo incrível! 💡</h3>
 
 
 
