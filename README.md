@@ -12,7 +12,7 @@
 </p>
 
 ### 🚀 Sobre mim
-Sou Enzo Rincon e sempre sonhei em trabalhar na área de tecnologia, especialmente com programação. Atualmente, estou realizando esse sonho por meio de projetos pessoais que desenvolvo por conta própria.
+Sempre sonhei em trabalhar na área de tecnologia, especialmente com programação. Atualmente, estou realizando esse sonho por meio de projetos pessoais que desenvolvo por conta própria.
 #
 ### 🎯 Objetivo profissonal
 #### Busco uma oportunidade na área de desenvolvimento de sistemas. Quero aplicar minhas habilidades técnicas e o conhecimento adquirido em atividades acadêmicas e projetos realizados, com foco no crescimento profissional e aprendizado na área de tecnologia.
