@@ -32,7 +32,18 @@ Sempre sonhei em trabalhar na área de tecnologia, especialmente com programaç�
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🔧 Frameworks
-# ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+ ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🔗 Outras
+![Google Drive](https://img.shields.io/badge/Google_Drive-00bfff?style=for-the-badge&logo=GoogleDrive&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 📌 Projetos Destacados  
+- **📊 Sistema de Controle de Gastos e Estoque** – Desenvolvido para uma empresa como freelancer.  
+- **🐾 Sistema Veterinário MVC** – Projeto acadêmico para faculdade.  
+- **📱 Aplicação em Java** – Projeto pessoal para aprimorar conhecimentos.  
+
+
+#
 
 <h3 align="center"> Estou sempre aberto a novas oportunidades e desafios! Vamos criar algo incrível! 💡</h3>
 
