@@ -37,6 +37,8 @@ Sempre sonhei em trabalhar na área de tecnologia, especialmente com programaç�
 ### 🔗 Outras
 ![Google Drive](https://img.shields.io/badge/Google_Drive-00bfff?style=for-the-badge&logo=GoogleDrive&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+#
+
 ### 📌 Projetos Destacados  
 - **📊 Sistema de Controle de Gastos e Estoque** – Desenvolvido para uma empresa como freelancer.  
 - **🐾 Sistema Veterinário MVC** – Projeto acadêmico para faculdade.  
