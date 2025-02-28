@@ -41,7 +41,6 @@ Sempre sonhei em trabalhar na área de tecnologia, especialmente com programaç�
 
 ### 📌 Projetos Destacados  
 - **📊 Sistema de Controle de Gastos e Estoque** – Desenvolvido para uma empresa como freelancer.  
-- **🐾 Sistema Veterinário MVC** – Projeto acadêmico para faculdade.  
 - **📱 Aplicação em Java** – Projeto pessoal para aprimorar conhecimentos.  
 
 
