@@ -39,10 +39,8 @@ Sempre sonhei em trabalhar na área de tecnologia, especialmente com programaç�
 
 #
 
-### 📌 Projetos Destacados  
-- **📊 Sistema de Controle de Gastos e Estoque** – Desenvolvido para uma empresa como freelancer.  
-- **📱 Aplicação em Java** – Projeto pessoal para aprimorar conhecimentos.  
-
+### 📌 Projetos Destacados (Clique para ser direcionado) 
+- Projeto [BestMeals](https://github.com/Rincon23/BestMeals) é um sistema simples e funcional de cadastro e avaliação de itens.
 
 #
 
