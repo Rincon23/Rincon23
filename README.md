@@ -38,6 +38,7 @@ Sempre sonhei em trabalhar na área de tecnologia, especialmente com programaç�
 
 ### 📌 Projetos Destacados (Clique para ser direcionado) 
 - Projeto [BestMeals](https://github.com/Rincon23/BestMeals) é um sistema simples e funcional de cadastro e avaliação de itens.
+- Projeto [Campo Minado]((https://github.com/Rincon23/Campo-Minado)), Jogo simples desenvolvido em C++, feito para um projeto acadêmico.
 
 #
 
