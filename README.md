@@ -12,7 +12,9 @@
 </p>
 
 ### 🚀 Sobre mim
-Sempre sonhei em trabalhar na área de tecnologia, especialmente com programação. Atualmente, estou realizando esse sonho por meio de projetos pessoais que desenvolvo por conta própria.
+Sempre tive o sonho de trabalhar com tecnologia, especialmente na área de programação. Estou tornando isso realidade por meio de estudos e prática com desenvolvimento de sistemas. Tenho familiaridade com lógica de programação, automação, suporte técnico.
+
+Atualmente, curso Ciência da Computação e busco oportunidades para crescer profissionalmente na área de desenvolvimento, contribuindo com soluções práticas e aprendendo constantemente.
 #
 ### 🎯 Objetivo profissonal
 #### Busco uma oportunidade na área de desenvolvimento de sistemas. Quero aplicar minhas habilidades técnicas e o conhecimento adquirido em atividades acadêmicas e projetos realizados, com foco no crescimento profissional e aprendizado na área de tecnologia.
