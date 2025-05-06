@@ -40,7 +40,26 @@ Sempre sonhei em trabalhar na área de tecnologia, especialmente com programaç�
 - [BestMeals](https://github.com/Rincon23/BestMeals): Um sistema simples e funcional de cadastro e avaliação de itens.
 - [Campo Minado](https://github.com/Rincon23/Campo-Minado): Jogo simples desenvolvido em C++, feito para um projeto acadêmico.
 
-#
+<p></p>
+
+### 📬 Como entrar em contato?
+
+<p>Tô sempre aberto a conversar! É só me chamar nos links aí embaixo 👇</p>
+
+<table> 
+    <tr>
+        <td><strong>📧 E-mail:</strong></td> 
+        <td><a href="mailto:enzorincon2003@gmail.com">enzorincon2003@gmail.com</a></td> 
+    </tr>
+    <tr> 
+        <td><strong>💼 LinkedIn:</strong></td> 
+        <td><a href="https://www.linkedin.com/in/enzorincon">linkedin.com/in/enzorincon</a></td> 
+    </tr> 
+    <tr> 
+        <td><strong>📷 Instagram:</strong></td> 
+        <td><a href="https://www.instagram.com/enzo.rincon">@enzo.rincon</a></td> 
+    </tr> 
+</table>
 
 <h3 align="center"> Estou sempre aberto a novas oportunidades e desafios! Vamos criar algo incrível! 💡</h3>
 
