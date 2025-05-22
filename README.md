@@ -9,6 +9,12 @@
 <a href = mailto:enzorincon2003@gmail.com>
 <img src = https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
 </a>
+<a href = http://rincon23.github.io/>
+<img src = https://img.shields.io/badge/Portifólio-gray?style=for-the-badge&logo=github&logoColor=white>
+</a>
+<a href = https://rincon23.github.io/Curriculo.html>
+<img src = https://img.shields.io/badge/Currículo-green?style=for-the-badge&logo=files&logoColor=white>
+</a>
 </p>
 
 ### 🚀 Sobre mim
@@ -47,7 +53,7 @@ Atualmente, curso Ciência da Computação e busco oportunidades para crescer pr
 
 <p></p>
 
-### 📬 Como entrar em contato?
+### 📬 Como entrar em contato ou saber mais sobre mim?
 
 <p>Tô sempre aberto a conversar! É só me chamar nos links aí embaixo 👇</p>
 
@@ -64,6 +70,14 @@ Atualmente, curso Ciência da Computação e busco oportunidades para crescer pr
         <td><strong>📷 Instagram:</strong></td> 
         <td><a href="https://www.instagram.com/enzo.rincon">@enzo.rincon</a></td> 
     </tr> 
+    <tr>
+        <td><strong>🌐 Portfólio:</strong></td>
+        <td><a href="http://rincon23.github.io">rincon23.github.io</a></td>
+    </tr>
+    <tr>
+        <td><strong>📄 Currículo:</strong></td>
+        <td><a href="https://rincon23.github.io/Curriculo.html">rincon23.github.io/Curriculo.html</a></td>
+    </tr>
 </table>
 
 <h3 align="center"> Estou sempre aberto a novas oportunidades e desafios! Vamos criar algo incrível! 💡</h3>
