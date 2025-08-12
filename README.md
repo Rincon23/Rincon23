@@ -88,6 +88,7 @@ Atualmente, curso Ciência da Computação e busco oportunidades para crescer pr
 <img src = Img\212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif width="300">
 </p>
 
+---
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rincon23/Rincon23/output/github-contribution-grid-snake-dark.svg">
@@ -96,4 +97,7 @@ Atualmente, curso Ciência da Computação e busco oportunidades para crescer pr
 </picture>
 </p>
 
-
+<p align="center">
+  <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=Rincon23&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Rincon23's Stats" />
+  <img width="350" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rincon23&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Rincon23's Top Languages"  />
+</p>
