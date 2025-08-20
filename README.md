@@ -82,12 +82,6 @@ Atualmente, curso Ciência da Computação e busco oportunidades para crescer pr
 
 <h3 align="center"> Estou sempre aberto a novas oportunidades e desafios! Vamos criar algo incrível! 💡</h3>
 
-
-
-<p align="center">
-<img src = Img\212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif width="300">
-</p>
-
 ---
 
 <p align="center">
@@ -101,4 +95,8 @@ Atualmente, curso Ciência da Computação e busco oportunidades para crescer pr
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rincon23/Rincon23/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rincon23/Rincon23/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
+
+<p align="center">
+<img src = Img\212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif width="300">
 </p>
