@@ -12,7 +12,7 @@
 <a href = http://rincon23.github.io/>
 <img src = https://img.shields.io/badge/Portifólio-gray?style=for-the-badge&logo=github&logoColor=white>
 </a>
-<a href = https://rincon23.github.io/Curriculo.html>
+<a href = https://rincon23.github.io/Pagina-Curriculo/Curriculo.html>
 <img src = https://img.shields.io/badge/Currículo-green?style=for-the-badge&logo=files&logoColor=white>
 </a>
 </p>
