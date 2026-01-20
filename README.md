@@ -17,52 +17,18 @@
 </a>
 </p>
 
+---
+
 ### 🚀 Sobre mim
 Sempre tive o sonho de trabalhar com tecnologia, especialmente na área de programação. Estou tornando isso realidade por meio de estudos e prática com desenvolvimento de sistemas. Tenho familiaridade com lógica de programação, automação, suporte técnico.
 
 Atualmente, curso Ciência da Computação e busco oportunidades para crescer profissionalmente na área de desenvolvimento, contribuindo com soluções práticas e aprendendo constantemente.
 #
-### 🎯 Objetivo profissonal
-#### Busco uma oportunidade na área de desenvolvimento de sistemas. Quero aplicar minhas habilidades técnicas e o conhecimento adquirido em atividades acadêmicas e projetos realizados, com foco no crescimento profissional e aprendizado na área de tecnologia.
 
-###
-
-#
-
-### 🛠️ Ferramentas que já trabalhei em meus projetos
-#### 💻 Back-end
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-#### 🌐 Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### 📦 Banco de Dados
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🔗 Ferramentas
-![Google workspace](https://img.shields.io/badge/Google_workspace-00bfff?style=for-the-badge&logo=GoogleDrive&logoColor=white) 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-#
-
-### 📌 Projetos Destacados (Clique para ser direcionado) 
-- [BestMeals](https://github.com/Rincon23/BestMeals): Um sistema simples e funcional de cadastro e avaliação de itens.
+### 📌 Projetos Destacados (Clique para ser direcionado)
+- [ClassManager](https://github.com/Rincon23/ClassManager) Sistema que permite cadastrar e gerenciar disciplinas, professores e aulas, oferecendo uma interface moderna e intuitiva para controle escolar com autenticação JWT.
+- [BestMeals](https://github.com/Rincon23/BestMeals): Sistema simples cadastro e avaliação de itens inicialmente idealizado para restaurantes.
 - [Campo Minado](https://github.com/Rincon23/Campo-Minado): Jogo simples desenvolvido em C++, feito para um projeto acadêmico.
-
-#
-
-### 📖 Cursos Realizados
-
-- [Curso de Javascript [40 Horas]](https://github.com/Rincon23/Curso-Javascript-)
 
 #
 
